@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Heebo", sans-serif;
+}
+body {
+  min-height: 100%;
+  width: 100%;
+  background: linear-gradient(109.6deg, white 11.2%, #98eecc 91.1%);
+}
+.main {
+  min-height: 100vh;
+  width: 100%;
+}
+.footer {
+  background-color: black;
+  color: white;
+  height: 50px;
+  padding-top: 20px;
+
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
