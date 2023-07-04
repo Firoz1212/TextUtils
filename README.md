@@ -1,6 +1,6 @@
 #TextUtils
 
-<img width="200" alt="Pattern-1" src="img/Screenshot 2023-07-04 at 11.46.36 PM.png">
+<img width="400" alt="Pattern-1" src="img/Screenshot 2023-07-04 at 11.46.36 PM.png">
 
 # Getting Started with Create React App
 
