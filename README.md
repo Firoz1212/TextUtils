@@ -2,6 +2,10 @@
 
 <img width="500" alt="Pattern-1" src="img/Screenshot 2023-07-04 at 11.46.36 PM.png">
 
+<img width="500" alt="Pattern-1" src="img/Screenshot 2023-07-04 at 11.46.56 PM.png">
+
+<img width="500" alt="Pattern-1" src="img/Screenshot 2023-07-04 at 11.47.09 PM.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
